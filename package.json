@@ -1,0 +1,38 @@
+{
+  "name": "mdb-5_snippet",
+  "displayName": "MDB 5 Snippet",
+  "description": "Simple Material Design Bootstrap 5 snippets generator",
+  "version": "1.0.0",
+  "publisher": "NikhilThakur",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itgitnit/mdb5snippets"
+  },
+  "icon": "mdb.png",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.19.0"
+  }
+}
