@@ -1,3 +1,5 @@
+Link - https://marketplace.visualstudio.com/items?itemName=NikhilThakur.mdb5snippets
+
 # MDB 5 Simple Snippet
 
 This extension adds snippets for MDB 5 - Material Design for Bootstrap 5
